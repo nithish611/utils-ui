@@ -24,3 +24,4 @@ dist-ssr
 *.sw?
 .vercel
 server/.oauth-states.json
+.env*.local
